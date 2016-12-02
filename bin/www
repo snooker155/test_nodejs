@@ -1,5 +1,8 @@
 #!/usr/bin/env node
 
+
+// BASED ON http://frontender.info/building-multiplayer-games-with-node-js-and-socket-io/
+
 /**
  * Module dependencies.
  */
